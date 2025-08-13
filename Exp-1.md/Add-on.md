@@ -108,7 +108,7 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
-Test case 1 (Output):
+Test case 2 (Output):
 
 <img width="1599" height="897" alt="Screenshot 2025-08-13 102826" src="https://github.com/user-attachments/assets/31eb0076-ed3e-42af-b6c4-98f3440eaf3e" />
 <img width="1599" height="899" alt="Screenshot 2025-08-13 102849" src="https://github.com/user-attachments/assets/a2bf531f-41b2-462e-83d0-ebc5d21f8f78" />
