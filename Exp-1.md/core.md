@@ -55,7 +55,7 @@ print(df_results.to_string(index=False))
 
 Test case 1 (Output):
 
-<img width="1599" height="899" alt="Screenshot 2025-08-13 102602" src="https://github.com/user-attachments/assets/9e48f278-cac7-49a4-a23b-80fafb7ea416" />
+<img width="1599" height="899" alt="Screenshot 2025-08-13 102602" src="https://github.com/user-attachments/assets/22b52ed7-bbe9-4371-a228-362ede726eb3" />
 
 Test case 2 (Code):
 
@@ -102,6 +102,7 @@ for xi, target in zip(X, y):
 
 Test case 2 (Output):
 
-<img width="1599" height="899" alt="Screenshot 2025-08-13 102602" src="https://github.com/user-attachments/assets/bcde0530-0fae-446f-8f94-3ae2680aa988" />
-<img width="1599" height="893" alt="Screenshot 2025-08-13 102645" src="https://github.com/user-attachments/assets/a9aad858-2a03-49e5-b083-64b7dcf3d216" />
+<img width="1599" height="899" alt="Screenshot 2025-08-13 102731" src="https://github.com/user-attachments/assets/90beb9cd-bf46-49a4-9e3c-40164be50117" />
+<img width="1599" height="899" alt="Screenshot 2025-08-13 102753" src="https://github.com/user-attachments/assets/3bf978c9-5ae9-469a-b0ba-0661dd6ad026" />
+
 
