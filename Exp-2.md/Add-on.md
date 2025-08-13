@@ -19,4 +19,7 @@ model = Sequential([
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 model.fit(X_train, y_train, epochs=5, batch_size=32, validation_data=(X_test, y_test))
 
-Out
+Output :
+
+<img width="1599" height="899" alt="Screenshot 2025-08-13 113212" src="https://github.com/user-attachments/assets/ad10cd20-143b-4f35-8a8c-2284c5566790" />
+
